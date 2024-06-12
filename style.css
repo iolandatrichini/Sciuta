@@ -541,6 +541,10 @@ nav {
         margin-left: 2%; 
     }
 
+    .titolo  {
+        margin-top: 10%;
+    }
+    
     .titolo p {
         left: 20%; 
         font-size: 0.7rem; 
